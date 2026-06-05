@@ -92,7 +92,7 @@ Full Stack MERN E-Commerce Website
 https://furniture-frontend-peach.vercel.app/
 
 📂 Repository:
-https://github.com/anujraidas66/furniture-store
+https://github.com/anujraidas66/Furniture-frontend
 
 </td>
 
