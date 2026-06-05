@@ -7,7 +7,7 @@
 </p>
 
 ## 📌 About Me
-- I'm Anuj Kumar Raidas, Full-Stack Developer.
+- 👋 I'm Anuj Kumar Raidas, Full-Stack Developer.
 - 🔭 I'm currently working on a Full-Stack E-commerce Website.
 - 🌱 I'm currently learning Next.js, TypeScript, and Advanced Backend Development.
 - 💬 Ask me about React, Node.js, Express, MongoDB, Redux Toolkit, and REST APIs.
