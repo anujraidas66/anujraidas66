@@ -6,13 +6,13 @@
   </a>
 </p>
 
-## 📌 About Me
-- 👋 I'm Anuj Kumar Raidas, Full-Stack Developer.
-- 🔭 I'm currently working on a Full-Stack E-commerce Website.
-- 🌱 I'm currently learning Next.js, TypeScript, and Advanced Backend Development.
-- 💬 Ask me about React, Node.js, Express, MongoDB, Redux Toolkit, and REST APIs.
-- 📫 Reach me at: anujraidas7@gmail.com
-- Goal: To become a skilled Full Stack Software Engineer.
+ 📌 About Me
+ 👋 I'm Anuj Kumar Raidas, Full-Stack Developer.
+ 🔭 I'm currently working on a Full-Stack E-commerce Website.
+ 🌱 I'm currently learning Next.js, TypeScript, and Advanced Backend Development.
+ 💬 Ask me about React, Node.js, Express, MongoDB, Redux Toolkit, and REST APIs.
+ 📫 Reach me at: anujraidas7@gmail.com
+ Goal: To become a skilled Full Stack Software Engineer.
 
 
 ## 📊 GitHub Stats & Trophies
@@ -24,7 +24,7 @@
 </p>
 
 
-## 🛠️ Languages & Tools
+ 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -72,7 +72,7 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
+🔗 Connect with Me
 <p align="center">
   <a href="https://wa.me/9779701654774">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
