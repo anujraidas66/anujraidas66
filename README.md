@@ -72,6 +72,51 @@
   </a>
 </p>
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 Furniture Store
+Full Stack MERN E-Commerce Website
+
+✨ Features:
+- User Authentication
+- Shopping Cart
+- Wishlist
+- Product Reviews
+- Admin Dashboard
+
+🔗 Live Demo:
+https://your-live-link.com
+
+📂 Repository:
+https://github.com/anujraidas66/furniture-store
+
+</td>
+
+<td width="50%">
+
+### 💬 Real-Time Chat App
+Socket.IO + Node.js + MongoDB
+
+✨ Features:
+- Real-time Messaging
+- Online Users
+- Message Storage
+- Responsive UI
+
+🔗 Live Demo:
+https://your-chat-app.com
+
+📂 Repository:
+https://github.com/anujraidas66/chat-app
+
+</td>
+</tr>
+</table>
+
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://wa.me/9779701654774">
