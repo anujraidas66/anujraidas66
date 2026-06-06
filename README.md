@@ -33,10 +33,6 @@
 
 </p>
 
-## 📜 Certifications
-
-- 🎓 MERN Stack Development – https://www.mindrisers.com.np/certificate/validate/MR-82031-MS
-
 <h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
@@ -75,6 +71,10 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anujraidas66&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
+
+## 📜 Certifications
+
+- 🎓 MERN Stack Development – https://www.mindrisers.com.np/certificate/validate/MR-82031-MS
 
 ## 🚀 Featured Projects
 
