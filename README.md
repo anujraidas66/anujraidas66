@@ -33,6 +33,10 @@
 
 </p>
 
+## 📜 Certifications
+
+- 🎓 MERN Stack Development – https://www.mindrisers.com.np/certificate/validate/MR-82031-MS
+
 <h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
