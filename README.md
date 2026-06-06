@@ -14,16 +14,6 @@
 - 📫 Reach me at: anujraidas7@gmail.com
 - Goal: To become a skilled Full Stack Software Engineer.
 
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/anujraidas66">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anujraidas66&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="anujraidas66's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=anujraidas66&theme=dark&hide_border=true&cache_seconds=86400" alt="anujraidas66's GitHub Streak" width="49%" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
@@ -82,7 +72,7 @@
 <tr>
 <td width="50%">
 
-### 🛒 Furniture Store
+## 🛒 Furniture Store
 Full Stack MERN E-Commerce Website
 
 ✨ Features:
