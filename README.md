@@ -108,7 +108,7 @@ https://github.com/anujraidas66/Furniture-frontend-
 - Contact
 
 ### 🔗 Live Demo
-https://vercel.com/anujkumars-projects-5bdf6b42
+https://anujtech.vercel.app/
 
 ### 📂 Repository
 https://github.com/anujraidas66/portfolio
