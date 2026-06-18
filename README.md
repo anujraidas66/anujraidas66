@@ -70,47 +70,52 @@
 
 <table>
 <tr>
-<td width="50%">
-
-<table>
-<tr>
 
 <td width="50%" valign="top">
 
-## 🛒 Furniture Store
-**Full Stack MERN E-Commerce Website**
+### 🛒 Furniture Store
 
-### ✨ Features
-- User Authentication
-- Shopping Cart
-- Wishlist
-- Product Reviews
-- Admin Dashboard
+**Full Stack MERN E-Commerce Platform**
 
-### 🔗 Live Demo
+#### ✨ Key Features
+- 🔐 User Authentication & Authorization
+- 🛍️ Shopping Cart & Checkout
+- ❤️ Wishlist Management
+- ⭐ Product Reviews & Ratings
+- 📊 Admin Dashboard
+
+**Tech Stack:**  
+`MongoDB` `Express.js` `React.js` `Node.js` `Tailwind CSS`
+
+🔗 **Live Demo:**  
 https://furniture-frontend-peach.vercel.app/
 
-### 📂 Repository
+📂 **Source Code:**  
 https://github.com/anujraidas66/Furniture-frontend-
 
 </td>
 
 <td width="50%" valign="top">
 
-## 💼 Portfolio
+### 💼 Portfolio
 
-### ✨ Features
-- About
-- Skills
-- Projects
-- Experience
-- Education
-- Contact
+**Personal Developer Portfolio**
 
-### 🔗 Live Demo
-https://anujtech.vercel.app/
+#### ✨ Key Features
+- 👋 About Me
+- 🛠️ Skills Showcase
+- 🚀 Featured Projects
+- 💼 Experience
+- 🎓 Education
+- 📬 Contact Form
 
-### 📂 Repository
+**Tech Stack:**  
+`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
+
+🔗 **Live Demo:**  
+https://anujkumar.vercel.app
+
+📂 **Source Code:**  
 https://github.com/anujraidas66/portfolio
 
 </td>
