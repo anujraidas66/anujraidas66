@@ -72,46 +72,45 @@
 <tr>
 <td width="50%">
 
-## 🛒 Furniture Store
-Full Stack MERN E-Commerce Website
+<table>
+<tr>
 
-✨ Features:
+<td width="50%" valign="top">
+
+## 🛒 Furniture Store
+**Full Stack MERN E-Commerce Website**
+
+### ✨ Features
 - User Authentication
 - Shopping Cart
 - Wishlist
 - Product Reviews
 - Admin Dashboard
 
-🔗 Live Demo:
+### 🔗 Live Demo
 https://furniture-frontend-peach.vercel.app/
 
-📂 Repository:
+### 📂 Repository
 https://github.com/anujraidas66/Furniture-frontend-
 
 </td>
 
-</tr>
-</table>
+<td width="50%" valign="top">
 
+## 💼 Portfolio
 
-<table>
-<tr>
-<td width="50%">
-
-## PortFolio
-
-✨ Features:
+### ✨ Features
 - About
-- Skill
-- Contact
-- Project
+- Skills
+- Projects
 - Experience
 - Education
+- Contact
 
-🔗 Live Demo:
+### 🔗 Live Demo
 https://vercel.com/anujkumars-projects-5bdf6b42
 
-📂 Repository:
+### 📂 Repository
 https://github.com/anujraidas66/portfolio
 
 </td>
