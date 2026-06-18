@@ -64,7 +64,7 @@
 
 ## 📜 Certifications
 
-- 🎓 MERN Stack Development – https://raw.githubusercontent.com/anujraidas66/anujraidas66/main/certificate.png
+- 🎓 MERN Stack Development – https://www.mindrisers.com.np/certificate/validate/MR-82031-MS
 
 ## 🚀 Featured Projects
 
