@@ -112,7 +112,7 @@ https://github.com/anujraidas66/Furniture-frontend-
 https://vercel.com/anujkumars-projects-5bdf6b42
 
 📂 Repository:
-https://github.com/anujraidas66/Furniture-frontend-
+https://github.com/anujraidas66/portfolio
 
 </td>
 
