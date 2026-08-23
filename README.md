@@ -11,7 +11,7 @@
 - 🔭 I'm currently working on a Full-Stack E-commerce Website.
 - 🌱 I'm currently learning Next.js, TypeScript, and Advanced Backend Development.
 - 💬 Ask me about React, Node.js, Express, MongoDB, Redux Toolkit, and REST APIs.
-- 📫 Reach me at: anujraidas7@gmail.com
+- 📫 Reach me at: anujraidas66@gmail.com
 - Goal: To become a skilled Full Stack Software Engineer.
 
 ## 🛠️ Languages & Tools
